@@ -1,4 +1,4 @@
-# Books API
+# Patient API
 
 A simple CRUD API created with FastAPI and SQLAlchemy for PostgreSQL
 
